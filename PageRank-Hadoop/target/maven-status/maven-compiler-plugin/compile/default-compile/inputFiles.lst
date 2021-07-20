@@ -1,0 +1,11 @@
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/graphCreation/GraphCreationReducer.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/pagerank/PageRankReducer.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/graphCreation/GraphCreationMapper.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/sort/PagerankSortReducer.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/pagerank/ReducerReceivedData.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/nodeCounter/CounterMapper.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/sort/PageRankComparable.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/sort/PagerankSortMapper.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/nodeCounter/CounterReducer.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/pagerank/PageRankMapper.java
+/Users/lauralemmi/CloudComputingTools/PageRank/src/main/java/it/unipi/hadoop/MyDriver.java
